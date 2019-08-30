@@ -35,7 +35,6 @@ The initial `tsconfig.json` for an Angular app typically looks like this example
    {
     "compileOnSave": false,
     "compilerOptions": {
-    "compilerOptions": {
       "baseUrl": "./",
       "outDir": "./dist/out-tsc",
       "sourceMap": true,
